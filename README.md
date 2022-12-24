@@ -1,1 +1,2 @@
 #djangofirstproj
+#ex02
